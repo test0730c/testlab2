@@ -11,3 +11,4 @@ int main()
 //poslanie secret//
 //nikakih secretov!//
 //zametka p3//
+//destroy//
