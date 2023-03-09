@@ -13,3 +13,4 @@ int main()
 //nikakih secretov!//
 //zametka p3//
 //destroy//
+//дорогой дневник, мне не описать ту боль и унижение...
